@@ -50,6 +50,9 @@ These experiments demonstrate how architectural and optimization choices directl
 
 5. Run all cells to reproduce the experiments and visualizations.
 
+Reproducibility Note:
+The experiments involve random weight initialization and stochastic gradient descent. Because a fixed random seed was not enforced, training curves may vary slightly across runs.
+
 
 ## Requirements
 
